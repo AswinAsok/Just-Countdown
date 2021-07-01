@@ -11,9 +11,12 @@ body{
 }
 
 h2{
-    font-size: 3rem;
+    font-size: 3.5rem;
     font-weight: bold;
     padding: 0.5rem;
+}
+h3{
+    font-size: 3rem;
 }
 
 .coming-soon{
@@ -31,7 +34,7 @@ h2{
 }
 
 .day,.hour,.minute,.second{
-    font-size: 1.5rem;
+    font-size: 3rem;
 }
 
 .waiting{
